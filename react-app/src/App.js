@@ -1,4 +1,4 @@
-import './App.scss';
+import './styles/App.scss';
 
 function App() {
   return <h1 className="display-1">Hello World!</h1>;
